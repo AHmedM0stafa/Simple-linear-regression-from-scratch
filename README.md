@@ -32,3 +32,6 @@ OR ,try to use Colab.
 
 # Usage
 To use this implementation of linear regression, you need to have a dataset in the format of two columns, one for the input data 'X' and the other for the target values 'y'. You can use your own dataset or use the provided dataset 'challenge_dataset.txt'.
+
+## License
+This repo is made by AM :D
