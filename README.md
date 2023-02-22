@@ -20,6 +20,7 @@ The Simple Linear Regression code uses a basic machine learning algorithm to fit
 
 # Requirements
 
++ gdown
 + Python 3.6+
 + pandas
 + numpy
