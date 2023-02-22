@@ -6,8 +6,8 @@ This repository contains Python code for Simple Linear Regression, implemented f
 - Overview
 - Description
 - Requirements
-* Installation
-+ Usage
+- Installation
+-  Usage
 
 
 # Overview
@@ -34,4 +34,4 @@ OR ,try to use Colab.
 To use this implementation of linear regression, you need to have a dataset in the format of two columns, one for the input data 'X' and the other for the target values 'y'. You can use your own dataset or use the provided dataset 'challenge_dataset.txt'.
 
 ## License
-This repo is made by AM :D
+This repo is made by AM ^_^ 
